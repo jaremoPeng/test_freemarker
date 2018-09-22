@@ -1,0 +1,1 @@
+<#assign age=12>
