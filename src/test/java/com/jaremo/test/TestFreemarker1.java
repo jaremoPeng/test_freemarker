@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class testFreemarker1 {
+public class TestFreemarker1 {
 
     @Test
     public void case1(){
